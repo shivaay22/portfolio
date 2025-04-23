@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ProHire",
+    "imageSrc": "projects/project.png",
+    "description": "Employers can post job openings, review applicants, and manage recruitment efficiently",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SkillStack",
+    "imageSrc": "projects/project.png",
+    "description": "Secure login and sign-up forms, allowing users to create accounts, log in, and manage their profiles",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NeoBanker",
+    "imageSrc": "projects/project.png",
+    "description": "Explain how transactions are handled, including deposits, withdrawals between accounts",
+    "skills": ["mongoDB", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
