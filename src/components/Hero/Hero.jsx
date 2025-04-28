@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         Passionate Full Stack Developer (MERN) with strong skills in Java, DSA, and building scalable, high-performance web apps with clean, maintainable code.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:shivambhrdwaj2022@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
