@@ -1,19 +1,16 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import heroImg from "../../assets/hero/newPort.jpg";
+import heroImg from "../../assets/hero/ankitGupta1.jpg";
 
 export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Shivam</h1>
+        <h1 className={styles.title}>Hi, I'm Ankit</h1>
         <p className={styles.description}>
         Passionate Full Stack Developer (MERN) with strong skills in Java, DSA, and building scalable, high-performance web apps with clean, maintainable code.
         </p>
-        <a href="mailto:shivambhrdwaj2022@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
       <img
         src={heroImg}

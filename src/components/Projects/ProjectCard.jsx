@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
-import projectImg from "../../assets/projects/project.png";  // Import image from the src folder
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills },
@@ -8,7 +7,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={projectImg} // Use the imported image path here
+        src={`/${imageSrc}`} // Corrected line
         alt={`Image of ${title}`}
         className={styles.image}
       />
