@@ -1,17 +1,25 @@
 [
   {
-    "title": "Blogging Website Application",
-    "imageSrc": "blog.png",
-    "description": "Developed a blogging platform using the MERN stack, allowing users to create,edit,and share blog and delete blog implementation crud functionality",
+    "title": "ProHire",
+    "imageSrc": "newPro.svg",
+    "description": "Developed a dynamic Job Application Platform that allows job seekers to explore job listings, submit applications, and track their application status",
     "skills": ["React", "Express", "Node","mongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Railway Reservation System",
-    "imageSrc": "ticket.jpg",
-    "description": "Designed and built a railway reservation system using Html,CSS and Javascript to enable users to book,cancel",
-    "skills": ["HTMl", "CSS", "javaScript"],
+    "title": "Skillstack",
+    "imageSrc": "ss.png",
+    "description": "Secure login and sign-up forms, allowing users to create accounts, log in, and manage their profiles.",
+    "skills": ["React", "Express", "Node","mongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NeoBanker",
+    "imageSrc": "neobank.png",
+    "description": "Details on how users can create, update, and delete their accounts, as well as view their account details.",
+    "skills": ["Express", "Node","mongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
