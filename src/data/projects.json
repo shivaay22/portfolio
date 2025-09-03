@@ -1,26 +1,16 @@
 [
   {
-    "title": "ProHire",
+    "title": "Hirred",
     "imageSrc": "newPro.svg",
-    "description": "Developed a dynamic Job Application Platform that allows job seekers to explore job listings, submit applications, and track their application status",
+    "description": "Developed a dynamic Job Application Platform that allows job seekers to explore job listings, submit applications, and track their application status.Implemented RESTful APIs for seamless client-server communication and JWT/Firebase Authentication for secure user access.",
     "skills": ["React", "Express", "Node","mongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shivaay22/Hirred"
   },
   {
-    "title": "Skillstack",
+    "title": "Learning Pedia",
     "imageSrc": "ss.png",
-    "description": "Secure login and sign-up forms, allowing users to create accounts, log in, and manage their profiles.",
+    "description": "A comprehensive full-stack web Application designed to transform how students organise, share, and access lecture materials. Features include multi-format uploads/downloads (PDF, DOCX, TXT) OCR-based text extraction from handwritten/printed notes, and secure authentication using email/Password ",
     "skills": ["React", "Express", "Node","mongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "NeoBanker",
-    "imageSrc": "neobank.png",
-    "description": "Details on how users can create, update, and delete their accounts, as well as view their account details.",
-    "skills": ["Express", "Node","mongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shivaay22/LearningPedia"
   }
 ]
